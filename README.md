@@ -25,3 +25,9 @@ Copy an existing app's apps/<slug>/, privacy/<slug>/ and support/<slug>/ directo
 MilGaya: operator Salar Ali, verified public contact milgaya.support@gmail.com; content adapted from existing public/privacy.html, public/delete-account.html and public/terms.html in hsalarali27/milgaya branch build/milgaya-compatibility-v020. Image Compressor: reviewed repo hsalarali27/calculator_app branch photo-size-compress. Calcora: reviewed branch feat/calculator-foundation. Subscription App: repository/features unverified; privacy page is intentionally marked pending. Generic studio support email not yet provided. Image Compressor's proposed publisher Salar Tech differs from portfolio brand S-Tech Studio; must confirm consistency before store publication.
 
 Do not commit secrets or upload app backend credentials to this public repository.
+
+## Visual assets
+
+MilGaya app icon: verbatim copy of `hsalarali27/milgaya`, branch `build/milgaya-compatibility-v020`, `branding/MilGaya-app-icon.svg`.
+Image Compressor icon: verbatim copy of `hsalarali27/calculator_app`, branch `photo-size-compress`, `photo_size_compress/branding/app_icon.svg`.
+The two files in `assets/illustrations/` are original conceptual UI/development illustrations and are not genuine app screenshots. Replace them with real captures only if clearly identified as such.
