@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hsalarali27.github.io/S-Tech-Studio/sitemap.xml
